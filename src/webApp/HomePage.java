@@ -6,5 +6,8 @@ public class HomePage {
 
     // this is the nev menu
 
+    // more things for home page
+    //logo
+
 
 }
